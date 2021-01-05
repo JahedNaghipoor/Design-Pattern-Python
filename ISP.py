@@ -1,4 +1,4 @@
-# Interface Segregation Principle (Interface Splitting)
+# Interface Segregation Principle (ISP) - Interface Splitting
 from abc import abstractmethod
 
 

@@ -1,4 +1,4 @@
-# Dependency Inversion Principle
+# Dependency Inversion Principle (DIP)
 from abc import abstractmethod
 from enum import Enum
 
